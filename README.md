@@ -1,5 +1,11 @@
 # Erome Bulk Video Downloader
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=HxUrpTZJ8Cw" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-erome-videos.jpg" width="700px">
+</a>
+
 👉 Get it Here: https://serp.ly/erome-bulk-video-downloader
 
 ## Bulk Download Erome Videos Faster
